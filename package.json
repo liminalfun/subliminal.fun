@@ -4,6 +4,7 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
+    "graceful-fs": "^4.2.4",
     "gulp-postcss": "^8.0.0"
   },
   "devDependencies": {
