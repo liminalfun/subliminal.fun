@@ -5,7 +5,8 @@
   "main": "gulpfile.js",
   "dependencies": {
     "graceful-fs": "^4.2.4",
-    "gulp-postcss": "^8.0.0"
+    "gulp-postcss": "^8.0.0",
+    "lodash": "^4.17.15"
   },
   "devDependencies": {
     "autoprefixer": "^9.8.0",
